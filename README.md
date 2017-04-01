@@ -16,3 +16,7 @@ Part 3: Predictive Analytics / Machine learning
 - GR_article_part3.Rmd = R markdown of the article
 - GR_article_part3.html = html of the article
 - GR_MachineLearning.R = R script of the analyses
+
+
+Original web post:
+https://datascienceplus.com/goodreads-webscraping-and-text-analysis-with-r-part-1/
